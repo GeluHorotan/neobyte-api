@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/HorotanGelu/neobyte-api#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "prettier": "^2.7.1"
   }
 }
